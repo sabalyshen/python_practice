@@ -16,3 +16,7 @@ def run_times():
 
 run_times()
 
+#try:
+    # 嘗試執行一些程式碼
+#except:
+    # 當程式出現異常時執行這邊的程式碼
